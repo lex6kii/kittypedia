@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+
+.container > * {
+  font-family: 'Poiret One', cursive;
+
+}
+
+.amatic {
+  font-family: 'Amatic SC', cursive;
+}
+
+.container p {
+  font-size: 1.5em
+}
+
+.brand-logo {
+  font-family: 'Amatic SC', cursive;
+}
